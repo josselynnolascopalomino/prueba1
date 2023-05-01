@@ -1,0 +1,2 @@
+empezando git bash
+sehunda línea en git bash
